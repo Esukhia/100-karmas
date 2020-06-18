@@ -141,7 +141,7 @@ msgstr "Close"
 #: cms/templates/js/signatory-details.underscore
 #: lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
 msgid "Name"
-msgstr "Name"
+msgstr "Nameeeeeeeeeeeeeeeeeeeeeeee"
 
 #: cms/static/js/views/assets.js lms/static/js/Markdown.Editor.js
 #: cms/templates/js/asset-upload-modal.underscore
