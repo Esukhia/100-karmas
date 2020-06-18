@@ -155,5 +155,5 @@ msgstr "Choose File"
 #: common/lib/xmodule/xmodule/js/src/html/edit.js
 #: lms/static/js/Markdown.Editor.js
 #: common/static/common/templates/discussion/alert-popup.underscore
-msgid "OK"
+msgid "OK!"
 msgstr "OK"
